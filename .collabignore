@@ -8,6 +8,8 @@
 ._*
 .Spotlight-V100
 .Trashes
+.git
+.git/
 Icon?
 ehthumbs.db
 [Tt]humbs.db
